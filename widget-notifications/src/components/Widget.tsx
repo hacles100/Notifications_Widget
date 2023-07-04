@@ -98,7 +98,6 @@ export function Widget() {
              <div className="bg-zinc-900 px-8 py-4 flex items-start gap-6">
                 <Rocket className="w-6 h-6 text-violet-500 mt-3" />
 
-{/** flex-1 ocupa td o espaco restante */}
                 <div className='flex-1 flex flex-col gap-2'>
                     <p className='text-sm leading-relaxed text-zinc-400'>
                         Você recebeu um convite para fazer parte da empresa Nosi.
